@@ -1,0 +1,21 @@
+{
+  "name": "smokestacktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bar.js",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "smokestack": "^3.4.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "smokestack": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ustun Ozgur <ustun@ustunozgur.com> (https://github.com/ustun)",
+  "license": "ISC"
+}
