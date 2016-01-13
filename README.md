@@ -20,4 +20,6 @@ An output screenshot image should appear:
 open 0001.png
 ```
 
+Note: Example doesn't use JSX, but you can obviously use it. However see https://github.com/ustun/react-without-jsx
+
 For more info about smokestack, see https://github.com/hughsk/smokestack
